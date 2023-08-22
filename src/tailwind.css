@@ -1,0 +1,4 @@
+
+.btn{
+    @apply bg-green-700 text-white font-bold p-1.5 mt-10 w-fit rounded-md hover:bg-sky-700
+}
