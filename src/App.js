@@ -11,7 +11,7 @@ function App() {
           <li>Docs</li>
         </ul>
       </nav>
-      <div className='hero'>
+      <div className='hero sm:bg-orange-500 md:bg-sky-500 lg:bg-blue-100 xl:bg-slate-500 2xl:bg-red-300'>
         <h1 className='header'>
           Tailwind CSS makes styling React component easier!
         </h1>
